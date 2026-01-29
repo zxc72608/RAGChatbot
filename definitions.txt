@@ -1,0 +1,4 @@
+[RAG]：全名為檢索增強生成 (Retrieval-Augmented Generation)，結合了檢索系統與大型語言模型。
+[Embedding]：將文字轉換為高維度向量的過程，讓電腦理解語義。
+[ChromaDB]：一個輕量級的向量資料庫，專門用於儲存和檢索 Embedding。
+[LangChain]：一個開發 AI 應用的框架，能將模型、資料庫與工具串聯起來。
